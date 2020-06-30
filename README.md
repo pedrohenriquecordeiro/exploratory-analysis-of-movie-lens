@@ -6,7 +6,7 @@
 
 ## Project Description
 <p align="justify"> 
-    Analyzing the smaller dataset provided by the [Movie Lens](https://movielens.org/)
+    Analyzing the smaller dataset provided by the [MovieLens](https://movielens.org/)
 </p>
 
 ## Dependencies
@@ -16,11 +16,11 @@
 ## How run it :arrow_forward:
 At cmd or terminal, clone this project:
 ```
-> git clone https://github.com/pedrohenriquecordeiro/collecting-ibovespa-stock-price-data.git
+> git clone https://github.com/pedrohenriquecordeiro/exploratory-analysis-of-movie-lens.git
 ```
 Enter into folder:
 ```
-> cd collecting-ibovespa-stock-price-data
+> cd exploratory-analysis-of-movie-lens
 ```
 Install the dependencies:
 ```
