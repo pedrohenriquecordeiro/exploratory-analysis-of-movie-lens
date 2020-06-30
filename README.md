@@ -6,7 +6,7 @@
 
 ## Project Description
 <p align="justify"> 
-    Analyzing the smaller dataset provided by the [MovieLens](https://movielens.org/)
+    Analyzing the smaller dataset provided by the [Movie Lens].(https://movielens.org/)
 </p>
 
 ## Dependencies
