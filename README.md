@@ -6,11 +6,12 @@
 
 ## Project Description
 <p align="justify"> 
-    Analyzing the smaller dataset provided by the [Movie Lens].(https://movielens.org/)
+    Analyzing the smaller dataset provided by the Movie Lens.
 </p>
 
 ## Dependencies
 - [Pandas](https://pandas.pydata.org/)
+- [Dataset of Movie Lens](https://movielens.org/)
 
 
 ## How run it :arrow_forward:
